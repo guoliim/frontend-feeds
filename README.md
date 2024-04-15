@@ -1,6 +1,6 @@
 # frontend-feeds
 
-self maintained rss list according to [Frontend Feeds](https://github.com/impressivewebs/frontend-feeds)
+self maintained frontend developer blog rss feed list according to [Frontend Feeds](https://github.com/impressivewebs/frontend-feeds)
 
 # acknowledge
 
