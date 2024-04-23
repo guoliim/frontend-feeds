@@ -32,6 +32,7 @@
 <outline xmlUrl="https://blog.amp.dev/feed/" text="The AMP Blog" type="rss" title="The AMP Blog" htmlUrl="https://blog.amp.dev" />
 </outline>
 <outline title="Company/Startup Blogs" text="Company/Startup Blogs">
+<outline xmlUrl="https://dev.37signals.com/feed/posts.xml/" type="rss" title="37signals Dev" htmlUrl="https://dev.37signals.com/" />
 <outline xmlUrl="https://getflywheel.com/layout/feed/" type="rss" text="Layout | Creative content for designers, developers, &amp; marketers" title="Layout | Creative content for designers, developers, &amp; marketers" htmlUrl="https://getflywheel.com/layout/" />
 <outline text="Auth0 Blog" title="Auth0 Blog" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/" type="rss" />
 <outline type="rss" title="Bocoup" htmlUrl="https://bocoup.com" xmlUrl="https://bocoup.com/feed" text="Bocoup" />
